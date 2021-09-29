@@ -16,3 +16,4 @@ Para inicializar el proyecto luego de haber realizado los pasos anteriores de ma
 ```
 npm run star
 ```
+### Fin de la configuración
